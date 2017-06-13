@@ -3,7 +3,7 @@
 Name:             serverspec-core
 Summary:          GoodData ServerSpec integration
 Version:          1.9.13
-Release:          2%{?dist}.gdc1
+Release:          3%{?dist}.gdc1
 
 Vendor:           GoodData
 Group:            GoodData/Tools
